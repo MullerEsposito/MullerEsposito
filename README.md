@@ -1,17 +1,16 @@
-<h3 align="center">Hi all I'm Rayza 👋</h3>
+<h3 align="center">Hello, I'm Müller! 🤙</h3>
 <p align="center">A passionate  Software Developement Student 🚀</p>
 
 
 <p align="center">
-<img src="https://camo.githubusercontent.com/cdbee60d64689371b2b2f9438037116e9fe7ee74/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966" alt="Animação"/>
+<img src="https://www.anstack.com/static/pod/2017-01-13-programmer-reality.gif" alt="Animação"/>
 </p>
 
 <div align="center">
 
-[![Gmail Badge](https://img.shields.io/badge/-rayza.ocr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rayza.ocr@gmail.com)](mailto:rayza.ocr@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@oliveirarayza-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/oliveirarayza/?hl=pt-br)](https://www.instagram.com/oliveirarayza/?hl=pt-br) 
-[![Linkedin Badge](https://img.shields.io/badge/-rayzaoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayza-oliveira-costa-482658129/)](https://www.linkedin.com/in/rayza-oliveira-costa-482658129/)
-[![Rocketseat Badge](https://img.shields.io/badge/-rocketseat-000?style=flat-square&logo=&logoColor=white&link=https:https://app.rocketseat.com.br/me/rayzaoliveira)](https://app.rocketseat.com.br/me/rayzaoliveira)
+[![Hotmail Badge](https://img.shields.io/static/v1?label=&message=mulleresposito@hotmail.com&color=blue&logo=Microsoft-Outlook&link=mailto:mulleresposito@hotmail.com)](mailto:mulleresposito@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mulleresposito-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mulleresposito/)](https://www.linkedin.com/in/mulleresposito/)
+[![Rocketseat Badge](https://img.shields.io/badge/-rocketseat-000?style=flat-square&logo=&logoColor=white&link=https://app.rocketseat.com.br/me/mulleresposito)](https://app.rocketseat.com.br/me/mulleresposito)
 
 
 </div>
