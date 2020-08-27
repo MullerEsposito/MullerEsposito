@@ -1,9 +1,9 @@
 <h3 align="center">Hello, I'm Müller! 🤙</h3>
-<p align="center">A passionate  Software Developement Student 🚀</p>
+<p align="center">My children and I are stuck in ascii code. Help us! 🏃‍💨🤖</p>
 
 
 <p align="center">
-<img src="https://www.anstack.com/static/pod/2017-01-13-programmer-reality.gif" alt="Animação"/>
+<img src="https://i.pinimg.com/originals/0b/c2/c7/0bc2c7abd2844685a511d8e6be019452.png" alt="Minha foto com meus filhos gêmeos em formato ASCII." width="500"/>
 </p>
 
 <div align="center">
