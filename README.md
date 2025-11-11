@@ -1,5 +1,8 @@
 <h1 align="center">Hello, I'm Müller! 🤙</h1>
 
+<p>I love my profession. It's always challenging and inspiring to learn new languages, new techologies, new paradigms...</p>
+<p>I've been involved in the Web3 community for just over a year and I'm fascinated about the new possibilities we can do with this new web arragement.</p>
+
 <div align="center">
   <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mulleresposito&theme=transparent&utcOffset=-3" />
